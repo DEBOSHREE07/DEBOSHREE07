@@ -15,7 +15,7 @@
 - **Handle:** `@DEBOSHREE07`
 - **Focus:** Building automation and documentation with real-world impact
 - **Contact:** **deboshre07@gmail.com**
-- **GitHub:** [DEBOSHREE07](https://github.com/DEBOSHREE07)
+
 
 ---
 
@@ -32,7 +32,7 @@
 - Ethical hacking (legal exploration of systems)  
 - Exploring new tools & workflows  
 - Beginner-level hackathons & collaborative projects  
-- Cats, pastel vibes, and cozy documentation  
+
 
 ---
 
@@ -64,9 +64,6 @@ Everything is an illusion… including you.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEBOSHREE07/DEBOSHREE07/output/snake.svg" alt="Contribution Snake" />
-</p>
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Debo%20✨&text2=Build%20Smart%20%26%20Kind&width=800" alt="Animated banner" />
