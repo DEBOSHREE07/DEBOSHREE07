@@ -36,7 +36,7 @@
 ## 🐾 Interests
 - Ethical hacking (legal exploration of systems)  
 - Exploring new tools & workflows  
-- Beginner-level hackathons & collaborative projects  
+- Hackathons & collaborative projects  
 
 
 ---
